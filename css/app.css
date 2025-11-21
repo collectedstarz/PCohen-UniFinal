@@ -59,6 +59,7 @@ V A R I A B L E S
 */
 
 /* this is a change made by Rook */
+/* hi friend */
 
 .main-titles {
 	color: #45364b;
@@ -254,9 +255,9 @@ span.title-bar-title {
 }
 
 li.top-bar-main-link a {
-	color: black !important;
+	color: white !important;
 }
-/*-- fix this later; it was white^ --*/
+
 
 ul.top-bar-links li.top-bar-main-link a.main-link {
 	text-align: center;
@@ -282,7 +283,7 @@ ul.submenu li a:hover {
 	background-color: black;
 	color: white !important;
 }
-
+/* u put it back :D*/
 ul.submenu-color,
 ul.submenu-color li {
 	line-height: 1;
